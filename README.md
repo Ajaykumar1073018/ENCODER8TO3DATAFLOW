@@ -49,8 +49,8 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 ```
-Name : THRIKESWAR P
-Reg : 212222230162
+Name : Ajay kumar T
+Reg : 212223047001
 module ex05(din,a,b,c);
 input [0:7] din;
 output a,b,c;
